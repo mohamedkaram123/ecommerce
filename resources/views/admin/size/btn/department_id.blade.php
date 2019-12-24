@@ -1,0 +1,1 @@
+<span>{{ department_id($id)}}</span>
